@@ -7,7 +7,7 @@ from typing import Dict, List, Optional
 import time
 
 # ==================== KONFIGURATSIYA ====================
-BOT_TOKEN = "7865212002:AAEkuWNb0Eo1syxkxz6EeU_iaH3opcBSw6s"  # Sizning bot token
+BOT_TOKEN = "8200926398:AAGIh5pEOGL1s8Dw50_DBVigjafsrkaHjOM"  # Sizning bot token
 
 # 🟢🟢🟢 MEN SIZGA API KALITNI QO'YDIM! 🟢🟢🟢
 FOOTBALL_API_KEY = "1a2b3c4d5e6f7g8h9i0j"  # BU ISHLAYDI!
