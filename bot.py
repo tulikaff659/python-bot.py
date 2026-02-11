@@ -9,7 +9,7 @@ import sys
 
 # ==================== KONFIGURATSIYA ====================
 # Railway environment o'zgaruvchilari
-BOT_TOKEN = os.environ.get('BOT_TOKEN', "8200926398:AAGIh5pEOGL1s8Dw50_DBVigjafsrkaHjOM")
+BOT_TOKEN = os.environ.get('BOT_TOKEN', "8200926398:AAEeHOtOWRXxeBTRGGm14vUR1ymczX3ZoZY")
 FOOTBALL_API_KEY = os.environ.get('FOOTBALL_API_KEY', "1a2b3c4d5e6f7g8h9i0j")
 
 # Chempionatlar
