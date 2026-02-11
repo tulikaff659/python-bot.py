@@ -1,0 +1,12 @@
+[build]
+builder = "nixpacks"
+language = "python"
+
+[phases.setup]
+nixPkgs = ["python311"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[phases.start]
+cmds = ["python bot.py"]
